@@ -1,3 +1,32 @@
 body {
-
+ background-color: #8EA8C3;
+}
+h1{
+  font-size:400%
+  letter-spacing:3px;
+  color: white;
+  text-decortion: underline;
+  text-decoration-color:#B8336A; ;
+  font-family: "papyrus";  
+} 
+p{ 
+  font-size: 200%
+    color: #B8336A;
+}
+ing{
+  width: 600px;
+  border-style: ridge;
+  border-color: #ABDAFC;
+}
+ul{
+  text-aliogn: number;
+  list-style-type: none;
+  font-family:"papyrus";  
+}
+li{
+  float: left;
+}
+li a{
+ padding: 30px; 
+  color: #ABDAFC;
 }
